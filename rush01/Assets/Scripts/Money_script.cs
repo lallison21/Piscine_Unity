@@ -11,6 +11,6 @@ public class Money_script : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        txt.text = "MONEY " + player.money;
+        txt.text = "GOLD " + player.money;
     }
 }
